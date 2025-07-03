@@ -43,7 +43,7 @@
 <h2>Repository Contents</h2>
 <ul>
 <li><strong><a href="prompt_II.ipynb">prompt_II.ipynb</a></strong> - Complete analysis notebook with detailed methodology, visualizations, and results</li>
-<li><strong>data/vehicles.csv</strong> - Dataset of 426K used car records</li>
+<li><strong>data.zip</strong> - Unzip the <a href="https://github.com/lakshmivelandai/What-drives-the-price-of-a-car/blob/main/data.zip" data </a> data file. </li> Ensure you have structure of data/vehicles.csv which is the Dataset of 426K used car records</li>
 <li><strong>images/</strong> - Supporting visualizations and diagrams</li>
 </ul>
 <h2>Methodology</h2>
